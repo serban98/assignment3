@@ -48,7 +48,11 @@ font-style:italic;
      .row {display:flex;
    flex-direction:row;}
 
-   .column{padding:30px;}
+   .column2{padding:30px;}
+
+   .column1{padding:30px;
+   color:red;
+background-color:rgb(233, 233, 145)}
 
    {table
    font-family:sans-serif;
